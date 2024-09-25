@@ -13,3 +13,5 @@ Tanggung jawab kemudian bergantung pada situasi dalam beberapa kasus. Jika Anda 
 Anda bertanggung jawab atas segalanya dengan pusat data lokal. Tanggung jawab berubah dengan komputasi awan. Jenis layanan awan berikut sangat terkait dengan model tanggung jawab bersama: infrastruktur sebagai layanan (IaaS), platform sebagai layanan (PaaS), dan perangkat lunak sebagai layanan (SaaS). IaaS memberi konsumen lebih banyak tanggung jawab, dan penyedia awan bertanggung jawab atas dasar keamanan fisik, daya, dan konektivitas. SaaS memberi penyedia awan lebih banyak tanggung jawab.
 
 Diagram berikut menggambarkan bagaimana Model Tanggung Jawab Bersama menentukan siapa yang bertanggung jawab atas apa.
+
+![Nama Alternatif Gambar](../../../images/365.avif)
