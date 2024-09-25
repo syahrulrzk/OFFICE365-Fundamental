@@ -14,4 +14,4 @@ Anda bertanggung jawab atas segalanya dengan pusat data lokal. Tanggung jawab be
 
 Diagram berikut menggambarkan bagaimana Model Tanggung Jawab Bersama menentukan siapa yang bertanggung jawab atas apa.
 
-![Nama Alternatif Gambar](../../../images/365.avif)
+![cloud-service](../../../images/cloud-service-type.png)
