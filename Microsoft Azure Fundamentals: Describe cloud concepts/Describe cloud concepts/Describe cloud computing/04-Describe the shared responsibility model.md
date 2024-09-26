@@ -15,3 +15,20 @@ Anda bertanggung jawab atas segalanya dengan pusat data lokal. Tanggung jawab be
 Diagram berikut menggambarkan bagaimana Model Tanggung Jawab Bersama menentukan siapa yang bertanggung jawab atas apa.
 
 ![cloud-service](../../../images/cloud-service-type.png)
+
+Saat Anda menggunakan penyedia cloud, Anda akan selalu bertanggung jawab atas:
+
+- The information and data stored in the cloud
+- Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
+- The accounts and identities of the people, services, and devices within your organization
+
+The cloud provider is always responsible for:
+- The physical datacenter
+- The physical network
+- The physical hosts
+
+Your service model will determine responsibility for things like:
+- Operating systems
+- Network controls
+- Applications
+- Identity and infrastructure
